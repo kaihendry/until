@@ -1,0 +1,15 @@
+{
+  "name": "until",
+  "profile": "mine",
+  "regions": [
+    "ap-southeast-1"
+  ],
+  "stages": {
+    "staging": {
+      "domain": "until.dabase.com"
+    }
+  },
+  "error_pages": {
+    "disable": true
+  }
+}
